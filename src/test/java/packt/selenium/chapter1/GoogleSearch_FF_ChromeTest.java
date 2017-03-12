@@ -31,7 +31,7 @@ public class GoogleSearch_FF_ChromeTest {
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         driver.get(baseUrl + "?gws_rd=cr,ssl&ei=ziAqVtGnIcWdugTG65X4Dw&fg=1");
         driver.findElement(By.id("lst-ib")).clear();
-        driver.findElement(By.id("lst-ib")).sendKeys("Selenium1");
+        driver.findElement(By.id("lst-ib")).sendKeys("Selenium");
         driver.findElement(By.name("btnG")).click();
     }
 
