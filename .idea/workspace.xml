@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/test/java/packt/selenium/chapter1/GoogleSearch_FF_ChromeTest.java" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5cc041e-4558-4403-bec5-fc4dadd078fe" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/packt/selenium/chapter1/GoogleSearch_FF_ChromeTest.java" afterPath="$PROJECT_DIR$/src/test/java/packt/selenium/chapter1/GoogleSearch_FF_ChromeTest.java" />
-    </list>
+    <list default="true" id="c5cc041e-4558-4403-bec5-fc4dadd078fe" name="Default" comment="" />
     <ignored path="Chapter1.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -723,7 +721,7 @@
       <workItem from="1489339796223" duration="1422000" />
       <workItem from="1489342065935" duration="176000" />
       <workItem from="1489342799725" duration="409000" />
-      <workItem from="1489343677933" duration="9000" />
+      <workItem from="1489343677933" duration="520000" />
     </task>
     <servers />
   </component>
@@ -754,10 +752,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6864000" />
+    <option name="totallyTimeSpent" value="7375000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
