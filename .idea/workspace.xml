@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5cc041e-4558-4403-bec5-fc4dadd078fe" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/packt/selenium/chapter1/GoogleSearch_FF_ChromeTest.class" afterPath="$PROJECT_DIR$/target/test-classes/packt/selenium/chapter1/GoogleSearch_FF_ChromeTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/packt/selenium/chapter1/GoogleSearch_FF_ChromeTest.java" afterPath="$PROJECT_DIR$/src/test/java/packt/selenium/chapter1/GoogleSearch_FF_ChromeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-packt.selenium.chapter1.GoogleSearch_FF_ChromeTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-packt.selenium.chapter1.GoogleSearch_FF_ChromeTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/packt.selenium.chapter1.GoogleSearch_FF_ChromeTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/packt.selenium.chapter1.GoogleSearch_FF_ChromeTest.txt" />
     </list>
     <ignored path="Chapter1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/packt/selenium/chapter1/GoogleSearch_FF_ChromeTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.24660912">
-              <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+              <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -726,7 +723,7 @@
       <workItem from="1489339796223" duration="1422000" />
       <workItem from="1489342065935" duration="176000" />
       <workItem from="1489342799725" duration="409000" />
-      <workItem from="1489343677933" duration="3439000" />
+      <workItem from="1489343677933" duration="3609000" />
     </task>
     <servers />
   </component>
@@ -757,7 +754,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10294000" />
+    <option name="totallyTimeSpent" value="10464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -936,7 +933,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/packt/selenium/chapter1/GoogleSearch_FF_ChromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24660912">
-          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
           <folding />
         </state>
       </provider>
