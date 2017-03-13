@@ -35,6 +35,7 @@ public class GoogleSearch_FF_ChromeTest {
         driver.findElement(By.name("btnG")).click();
     }
 
+    //
 //    @Test
 //    public void tesChrome() throws Exception {
 //        System.setProperty("webdriver.chrome.driver", "D:\\Packt Publishing\\Selenium Video Tutorial\\Final Script\\ExampleCode_SeleniumVideo\\Chapter1\\src\\test\\resources\\chromedriver.exe");
